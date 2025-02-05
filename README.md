@@ -1,2 +1,2 @@
-# word_game
+# Word_Weaver
 challenge 02
